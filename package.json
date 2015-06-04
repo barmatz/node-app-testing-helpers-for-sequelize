@@ -1,0 +1,26 @@
+{
+  "name": "node-app-testing-helpers-for-sequelize",
+  "version": "0.0.1",
+  "description": "A set of helpers for testing Node JavaScript applications with Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barmatz/node-app-testing-helpers-for-sequelize.git"
+  },
+  "author": {
+    "name": "Or Barmatz",
+    "email": "barmatzor@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barmatz/node-app-testing-helpers-for-sequelize/issues"
+  },
+  "homepage": "https://github.com/barmatz/node-app-testing-helpers-for-sequelize#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2"
+  }
+}
